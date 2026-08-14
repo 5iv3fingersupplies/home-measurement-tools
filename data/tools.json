@@ -1,0 +1,192 @@
+[
+  {
+    "slug": "paint-estimator",
+    "title": "Paint Estimator",
+    "category": "Rooms",
+    "kind": "paint",
+    "description": "Estimate wall paint from room dimensions, doors, windows, coats, and coverage.",
+    "fields": [
+      {
+        "id": "length",
+        "label": "Room length ft",
+        "type": "number",
+        "value": 12
+      },
+      {
+        "id": "width",
+        "label": "Room width ft",
+        "type": "number",
+        "value": 10
+      },
+      {
+        "id": "height",
+        "label": "Wall height ft",
+        "type": "number",
+        "value": 8
+      },
+      {
+        "id": "doors",
+        "label": "Doors",
+        "type": "number",
+        "value": 2
+      },
+      {
+        "id": "windows",
+        "label": "Windows",
+        "type": "number",
+        "value": 2
+      },
+      {
+        "id": "coats",
+        "label": "Coats",
+        "type": "number",
+        "value": 2
+      },
+      {
+        "id": "coverage",
+        "label": "Coverage sq ft per gallon",
+        "type": "number",
+        "value": 350
+      }
+    ],
+    "recommendation_ids": [
+      "painter-tape",
+      "drop-cloth",
+      "paint-roller-kit"
+    ]
+  },
+  {
+    "slug": "curtain-size-calculator",
+    "title": "Curtain Size Calculator",
+    "category": "Decor",
+    "kind": "curtains",
+    "description": "Plan curtain panel width and rod length from window measurements.",
+    "fields": [
+      {
+        "id": "windowWidth",
+        "label": "Window width inches",
+        "type": "number",
+        "value": 48
+      },
+      {
+        "id": "windowHeight",
+        "label": "Window height inches",
+        "type": "number",
+        "value": 60
+      },
+      {
+        "id": "fullness",
+        "label": "Fullness multiplier",
+        "type": "number",
+        "value": 2
+      }
+    ],
+    "recommendation_ids": [
+      "measuring-tape",
+      "curtain-rod",
+      "curtain-rings"
+    ]
+  },
+  {
+    "slug": "rug-size-selector",
+    "title": "Rug Size Selector",
+    "category": "Decor",
+    "kind": "rug",
+    "description": "Choose a starting rug size from room and furniture footprint.",
+    "fields": [
+      {
+        "id": "roomWidth",
+        "label": "Room width ft",
+        "type": "number",
+        "value": 12
+      },
+      {
+        "id": "roomLength",
+        "label": "Room length ft",
+        "type": "number",
+        "value": 14
+      },
+      {
+        "id": "furnitureWidth",
+        "label": "Furniture zone width ft",
+        "type": "number",
+        "value": 8
+      },
+      {
+        "id": "furnitureLength",
+        "label": "Furniture zone length ft",
+        "type": "number",
+        "value": 10
+      }
+    ],
+    "recommendation_ids": [
+      "measuring-tape",
+      "rug-pad",
+      "furniture-sliders"
+    ]
+  },
+  {
+    "slug": "shelf-spacing-planner",
+    "title": "Shelf Spacing Planner",
+    "category": "Storage",
+    "kind": "shelf",
+    "description": "Plan shelf count and spacing from wall height and item height.",
+    "fields": [
+      {
+        "id": "wallHeight",
+        "label": "Usable height inches",
+        "type": "number",
+        "value": 72
+      },
+      {
+        "id": "itemHeight",
+        "label": "Tallest item inches",
+        "type": "number",
+        "value": 11
+      },
+      {
+        "id": "clearance",
+        "label": "Clearance inches",
+        "type": "number",
+        "value": 2
+      }
+    ],
+    "recommendation_ids": [
+      "level",
+      "wall-anchors",
+      "shelf-brackets"
+    ]
+  },
+  {
+    "slug": "storage-bin-fit-checker",
+    "title": "Storage Bin Fit Checker",
+    "category": "Storage",
+    "kind": "bin_fit",
+    "description": "Check whether bins fit a shelf by exterior dimensions and clearance.",
+    "fields": [
+      {
+        "id": "shelfWidth",
+        "label": "Shelf width inches",
+        "type": "number",
+        "value": 48
+      },
+      {
+        "id": "binWidth",
+        "label": "Bin exterior width inches",
+        "type": "number",
+        "value": 14
+      },
+      {
+        "id": "clearance",
+        "label": "Gap between bins inches",
+        "type": "number",
+        "value": 1
+      }
+    ],
+    "recommendation_ids": [
+      "clear-storage-bins",
+      "shelf-labels",
+      "tape-measure"
+    ]
+  }
+]

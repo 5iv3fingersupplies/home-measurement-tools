@@ -1,0 +1,86 @@
+[
+  {
+    "id": "painter-tape",
+    "label": "Painter tape",
+    "query": "Painter tape",
+    "fit": "Useful support item for paint estimator."
+  },
+  {
+    "id": "drop-cloth",
+    "label": "Drop cloth",
+    "query": "Drop cloth",
+    "fit": "Useful support item for paint estimator."
+  },
+  {
+    "id": "paint-roller-kit",
+    "label": "Paint roller kit",
+    "query": "Paint roller kit",
+    "fit": "Useful support item for paint estimator."
+  },
+  {
+    "id": "measuring-tape",
+    "label": "Measuring tape",
+    "query": "Measuring tape",
+    "fit": "Useful support item for rug size selector."
+  },
+  {
+    "id": "curtain-rod",
+    "label": "Curtain rod",
+    "query": "Curtain rod",
+    "fit": "Useful support item for curtain size calculator."
+  },
+  {
+    "id": "curtain-rings",
+    "label": "Curtain rings",
+    "query": "Curtain rings",
+    "fit": "Useful support item for curtain size calculator."
+  },
+  {
+    "id": "rug-pad",
+    "label": "Rug pad",
+    "query": "Rug pad",
+    "fit": "Useful support item for rug size selector."
+  },
+  {
+    "id": "furniture-sliders",
+    "label": "Furniture sliders",
+    "query": "Furniture sliders",
+    "fit": "Useful support item for rug size selector."
+  },
+  {
+    "id": "level",
+    "label": "Level",
+    "query": "Level",
+    "fit": "Useful support item for shelf spacing planner."
+  },
+  {
+    "id": "wall-anchors",
+    "label": "Wall anchors",
+    "query": "Wall anchors",
+    "fit": "Useful support item for shelf spacing planner."
+  },
+  {
+    "id": "shelf-brackets",
+    "label": "Shelf brackets",
+    "query": "Shelf brackets",
+    "fit": "Useful support item for shelf spacing planner."
+  },
+  {
+    "id": "clear-storage-bins",
+    "label": "Clear storage bins",
+    "query": "Clear storage bins",
+    "fit": "Useful support item for storage bin fit checker."
+  },
+  {
+    "id": "shelf-labels",
+    "label": "Shelf labels",
+    "query": "Shelf labels",
+    "fit": "Useful support item for storage bin fit checker."
+  },
+  {
+    "id": "tape-measure",
+    "label": "Tape measure",
+    "query": "Tape measure",
+    "fit": "Useful support item for storage bin fit checker."
+  }
+]
