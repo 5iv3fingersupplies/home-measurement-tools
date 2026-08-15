@@ -1,0 +1,424 @@
+{
+  "strategy_source_summary": "Adapted from supplied affiliate marketing materials: own the site, build topical authority, publish consistently, favor buyer-intent pages, reduce friction, and keep a return channel.",
+  "no_cost_adaptation": "Static seasonal pages, Atom feed, internal links, and deterministic optimization reports replace paid hosting, paid plugins, paid keyword tools, and paid email systems.",
+  "traffic_channels": [
+    {
+      "channel": "Organic search",
+      "implementation": "Seasonal and product-fit pages create clearer long-tail entry points around buyer intent."
+    },
+    {
+      "channel": "Owned return traffic",
+      "implementation": "Atom feed lets visitors follow new pages without accounts, email storage, or a paid newsletter service."
+    },
+    {
+      "channel": "Partner readiness",
+      "implementation": "Publisher standards page explains disclosure, evidence, and no paid placement rules for future direct affiliate approvals."
+    },
+    {
+      "channel": "Manual-free optimization",
+      "implementation": "Scheduled reports score tools, product-fit pages, seasonal pages, and optional private exports without calling paid APIs."
+    }
+  ],
+  "source_action_items": [
+    "Prioritize transactional page formats: tool pages, product-fit pages, comparison-style decision pages, and seasonal checklists.",
+    "Build internal links from supporting pages to the most relevant calculator and product-fit page.",
+    "Use trust cues before monetized links: disclosure, no account, private inputs, and evidence-first limitations.",
+    "Do not add paid email, paid keyword, paid AI, ads, or analytics dependencies."
+  ],
+  "seasonal_pages": [
+    {
+      "slug": "january-reset-paint-estimator",
+      "month": "January",
+      "theme": "reset",
+      "title": "January reset: paint Estimator",
+      "category": "Rooms",
+      "description": "A seasonal decision page for using Paint Estimator with Paint quantity planning before going to the store before opening product-fit links.",
+      "reason": "Reset the workspace and choose only the supplies the workflow proves you need.",
+      "tool_slugs": [
+        "paint-estimator",
+        "shelf-spacing-planner"
+      ],
+      "guide_slugs": [
+        "paint-quantity-planning-before-going-to-the-store",
+        "moving-box-estimates-by-room"
+      ],
+      "recommendation_ids": [
+        "painter-tape",
+        "drop-cloth",
+        "paint-roller-kit"
+      ],
+      "decision_prompts": [
+        "What measurement, count, or requirement changed this month?",
+        "Which current item still solves the job without a new purchase?",
+        "Which product category is justified by the calculator result?"
+      ],
+      "avoid_prompts": [
+        "Do not buy a broad bundle when a focused item solves the task.",
+        "Do not rely on live marketplace claims that this static site cannot verify.",
+        "Do not add a new tool until the existing workflow has a clear gap."
+      ]
+    },
+    {
+      "slug": "february-small-space-setup-curtain-size-calculator",
+      "month": "February",
+      "theme": "small-space setup",
+      "title": "February small-space setup: curtain Size Calculator",
+      "category": "Decor",
+      "description": "A seasonal decision page for using Curtain Size Calculator with Storage bin dimensions that matter before opening product-fit links.",
+      "reason": "Tighten the setup before the season gets busy.",
+      "tool_slugs": [
+        "curtain-size-calculator",
+        "storage-bin-fit-checker"
+      ],
+      "guide_slugs": [
+        "storage-bin-dimensions-that-matter",
+        "measuring-tape-checklist-for-home-projects"
+      ],
+      "recommendation_ids": [
+        "measuring-tape",
+        "curtain-rod",
+        "curtain-rings",
+        "drop-cloth"
+      ],
+      "decision_prompts": [
+        "What measurement, count, or requirement changed this month?",
+        "Which current item still solves the job without a new purchase?",
+        "Which product category is justified by the calculator result?"
+      ],
+      "avoid_prompts": [
+        "Do not buy a broad bundle when a focused item solves the task.",
+        "Do not rely on live marketplace claims that this static site cannot verify.",
+        "Do not add a new tool until the existing workflow has a clear gap."
+      ]
+    },
+    {
+      "slug": "march-spring-planning-rug-size-selector",
+      "month": "March",
+      "theme": "spring planning",
+      "title": "March spring planning: rug Size Selector",
+      "category": "Decor",
+      "description": "A seasonal decision page for using Rug Size Selector with Closet shelf planning basics before opening product-fit links.",
+      "reason": "Measure, sort, and prepare before buying fresh supplies.",
+      "tool_slugs": [
+        "rug-size-selector",
+        "paint-estimator"
+      ],
+      "guide_slugs": [
+        "closet-shelf-planning-basics",
+        "closet-shelf-planning-basics"
+      ],
+      "recommendation_ids": [
+        "measuring-tape",
+        "rug-pad",
+        "furniture-sliders",
+        "paint-roller-kit"
+      ],
+      "decision_prompts": [
+        "What measurement, count, or requirement changed this month?",
+        "Which current item still solves the job without a new purchase?",
+        "Which product category is justified by the calculator result?"
+      ],
+      "avoid_prompts": [
+        "Do not buy a broad bundle when a focused item solves the task.",
+        "Do not rely on live marketplace claims that this static site cannot verify.",
+        "Do not add a new tool until the existing workflow has a clear gap."
+      ]
+    },
+    {
+      "slug": "april-cleanup-pass-shelf-spacing-planner",
+      "month": "April",
+      "theme": "cleanup pass",
+      "title": "April cleanup pass: shelf Spacing Planner",
+      "category": "Storage",
+      "description": "A seasonal decision page for using Shelf Spacing Planner with What to measure before buying furniture before opening product-fit links.",
+      "reason": "Remove friction from the routine before adding more gear.",
+      "tool_slugs": [
+        "shelf-spacing-planner",
+        "curtain-size-calculator"
+      ],
+      "guide_slugs": [
+        "what-to-measure-before-buying-furniture",
+        "entryway-organizer-measurements"
+      ],
+      "recommendation_ids": [
+        "level",
+        "wall-anchors",
+        "shelf-brackets",
+        "measuring-tape"
+      ],
+      "decision_prompts": [
+        "What measurement, count, or requirement changed this month?",
+        "Which current item still solves the job without a new purchase?",
+        "Which product category is justified by the calculator result?"
+      ],
+      "avoid_prompts": [
+        "Do not buy a broad bundle when a focused item solves the task.",
+        "Do not rely on live marketplace claims that this static site cannot verify.",
+        "Do not add a new tool until the existing workflow has a clear gap."
+      ]
+    },
+    {
+      "slug": "may-busy-week-buffer-storage-bin-fit-checker",
+      "month": "May",
+      "theme": "busy-week buffer",
+      "title": "May busy-week buffer: storage Bin Fit Checker",
+      "category": "Storage",
+      "description": "A seasonal decision page for using Storage Bin Fit Checker with Rug size planning for small living rooms before opening product-fit links.",
+      "reason": "Build a light backup plan for busier weeks.",
+      "tool_slugs": [
+        "storage-bin-fit-checker",
+        "rug-size-selector"
+      ],
+      "guide_slugs": [
+        "rug-size-planning-for-small-living-rooms",
+        "laundry-room-storage-fit-checks"
+      ],
+      "recommendation_ids": [
+        "clear-storage-bins",
+        "shelf-labels",
+        "tape-measure",
+        "curtain-rod"
+      ],
+      "decision_prompts": [
+        "What measurement, count, or requirement changed this month?",
+        "Which current item still solves the job without a new purchase?",
+        "Which product category is justified by the calculator result?"
+      ],
+      "avoid_prompts": [
+        "Do not buy a broad bundle when a focused item solves the task.",
+        "Do not rely on live marketplace claims that this static site cannot verify.",
+        "Do not add a new tool until the existing workflow has a clear gap."
+      ]
+    },
+    {
+      "slug": "june-travel-and-outdoor-check-paint-estimator",
+      "month": "June",
+      "theme": "travel and outdoor check",
+      "title": "June travel and outdoor check: paint Estimator",
+      "category": "Rooms",
+      "description": "A seasonal decision page for using Paint Estimator with Shelf spacing for pantry and garage storage before opening product-fit links.",
+      "reason": "Check portable, compact, or weather-ready options before browsing.",
+      "tool_slugs": [
+        "paint-estimator",
+        "shelf-spacing-planner"
+      ],
+      "guide_slugs": [
+        "shelf-spacing-for-pantry-and-garage-storage",
+        "home-office-cable-and-shelf-planning"
+      ],
+      "recommendation_ids": [
+        "painter-tape",
+        "drop-cloth",
+        "paint-roller-kit",
+        "curtain-rings"
+      ],
+      "decision_prompts": [
+        "What measurement, count, or requirement changed this month?",
+        "Which current item still solves the job without a new purchase?",
+        "Which product category is justified by the calculator result?"
+      ],
+      "avoid_prompts": [
+        "Do not buy a broad bundle when a focused item solves the task.",
+        "Do not rely on live marketplace claims that this static site cannot verify.",
+        "Do not add a new tool until the existing workflow has a clear gap."
+      ]
+    },
+    {
+      "slug": "july-midyear-audit-curtain-size-calculator",
+      "month": "July",
+      "theme": "midyear audit",
+      "title": "July midyear audit: curtain Size Calculator",
+      "category": "Decor",
+      "description": "A seasonal decision page for using Curtain Size Calculator with Closet shelf planning basics before opening product-fit links.",
+      "reason": "Compare what is actually being used against what is stored.",
+      "tool_slugs": [
+        "curtain-size-calculator",
+        "storage-bin-fit-checker"
+      ],
+      "guide_slugs": [
+        "closet-shelf-planning-basics",
+        "what-to-measure-before-buying-furniture"
+      ],
+      "recommendation_ids": [
+        "measuring-tape",
+        "curtain-rod",
+        "curtain-rings",
+        "rug-pad"
+      ],
+      "decision_prompts": [
+        "What measurement, count, or requirement changed this month?",
+        "Which current item still solves the job without a new purchase?",
+        "Which product category is justified by the calculator result?"
+      ],
+      "avoid_prompts": [
+        "Do not buy a broad bundle when a focused item solves the task.",
+        "Do not rely on live marketplace claims that this static site cannot verify.",
+        "Do not add a new tool until the existing workflow has a clear gap."
+      ]
+    },
+    {
+      "slug": "august-back-to-routine-setup-rug-size-selector",
+      "month": "August",
+      "theme": "back-to-routine setup",
+      "title": "August back-to-routine setup: rug Size Selector",
+      "category": "Decor",
+      "description": "A seasonal decision page for using Rug Size Selector with Home office cable and shelf planning before opening product-fit links.",
+      "reason": "Prepare repeatable routines before the next packed calendar.",
+      "tool_slugs": [
+        "rug-size-selector",
+        "paint-estimator"
+      ],
+      "guide_slugs": [
+        "home-office-cable-and-shelf-planning",
+        "paint-quantity-planning-before-going-to-the-store"
+      ],
+      "recommendation_ids": [
+        "measuring-tape",
+        "rug-pad",
+        "furniture-sliders",
+        "level"
+      ],
+      "decision_prompts": [
+        "What measurement, count, or requirement changed this month?",
+        "Which current item still solves the job without a new purchase?",
+        "Which product category is justified by the calculator result?"
+      ],
+      "avoid_prompts": [
+        "Do not buy a broad bundle when a focused item solves the task.",
+        "Do not rely on live marketplace claims that this static site cannot verify.",
+        "Do not add a new tool until the existing workflow has a clear gap."
+      ]
+    },
+    {
+      "slug": "september-fall-organization-shelf-spacing-planner",
+      "month": "September",
+      "theme": "fall organization",
+      "title": "September fall organization: shelf Spacing Planner",
+      "category": "Storage",
+      "description": "A seasonal decision page for using Shelf Spacing Planner with Rug size planning for small living rooms before opening product-fit links.",
+      "reason": "Tighten labels, storage, and repeatable planning steps.",
+      "tool_slugs": [
+        "shelf-spacing-planner",
+        "curtain-size-calculator"
+      ],
+      "guide_slugs": [
+        "rug-size-planning-for-small-living-rooms",
+        "how-to-measure-windows-for-curtains"
+      ],
+      "recommendation_ids": [
+        "level",
+        "wall-anchors",
+        "shelf-brackets"
+      ],
+      "decision_prompts": [
+        "What measurement, count, or requirement changed this month?",
+        "Which current item still solves the job without a new purchase?",
+        "Which product category is justified by the calculator result?"
+      ],
+      "avoid_prompts": [
+        "Do not buy a broad bundle when a focused item solves the task.",
+        "Do not rely on live marketplace claims that this static site cannot verify.",
+        "Do not add a new tool until the existing workflow has a clear gap."
+      ]
+    },
+    {
+      "slug": "october-holiday-prep-storage-bin-fit-checker",
+      "month": "October",
+      "theme": "holiday prep",
+      "title": "October holiday prep: storage Bin Fit Checker",
+      "category": "Storage",
+      "description": "A seasonal decision page for using Storage Bin Fit Checker with Moving box estimates by room before opening product-fit links.",
+      "reason": "Prepare supplies before the year-end rush.",
+      "tool_slugs": [
+        "storage-bin-fit-checker",
+        "rug-size-selector"
+      ],
+      "guide_slugs": [
+        "moving-box-estimates-by-room",
+        "rug-size-planning-for-small-living-rooms"
+      ],
+      "recommendation_ids": [
+        "clear-storage-bins",
+        "shelf-labels",
+        "tape-measure",
+        "wall-anchors"
+      ],
+      "decision_prompts": [
+        "What measurement, count, or requirement changed this month?",
+        "Which current item still solves the job without a new purchase?",
+        "Which product category is justified by the calculator result?"
+      ],
+      "avoid_prompts": [
+        "Do not buy a broad bundle when a focused item solves the task.",
+        "Do not rely on live marketplace claims that this static site cannot verify.",
+        "Do not add a new tool until the existing workflow has a clear gap."
+      ]
+    },
+    {
+      "slug": "november-hosting-and-gifting-check-paint-estimator",
+      "month": "November",
+      "theme": "hosting and gifting check",
+      "title": "November hosting and gifting check: paint Estimator",
+      "category": "Rooms",
+      "description": "A seasonal decision page for using Paint Estimator with Measuring tape checklist for home projects before opening product-fit links.",
+      "reason": "Plan quantities and setup needs before last-minute buying.",
+      "tool_slugs": [
+        "paint-estimator",
+        "shelf-spacing-planner"
+      ],
+      "guide_slugs": [
+        "measuring-tape-checklist-for-home-projects",
+        "shelf-spacing-for-pantry-and-garage-storage"
+      ],
+      "recommendation_ids": [
+        "painter-tape",
+        "drop-cloth",
+        "paint-roller-kit",
+        "shelf-brackets"
+      ],
+      "decision_prompts": [
+        "What measurement, count, or requirement changed this month?",
+        "Which current item still solves the job without a new purchase?",
+        "Which product category is justified by the calculator result?"
+      ],
+      "avoid_prompts": [
+        "Do not buy a broad bundle when a focused item solves the task.",
+        "Do not rely on live marketplace claims that this static site cannot verify.",
+        "Do not add a new tool until the existing workflow has a clear gap."
+      ]
+    },
+    {
+      "slug": "december-year-end-simplify-curtain-size-calculator",
+      "month": "December",
+      "theme": "year-end simplify",
+      "title": "December year-end simplify: curtain Size Calculator",
+      "category": "Decor",
+      "description": "A seasonal decision page for using Curtain Size Calculator with Home office cable and shelf planning before opening product-fit links.",
+      "reason": "Document what worked and simplify the next cycle.",
+      "tool_slugs": [
+        "curtain-size-calculator",
+        "storage-bin-fit-checker"
+      ],
+      "guide_slugs": [
+        "home-office-cable-and-shelf-planning",
+        "storage-bin-dimensions-that-matter"
+      ],
+      "recommendation_ids": [
+        "measuring-tape",
+        "curtain-rod",
+        "curtain-rings",
+        "clear-storage-bins"
+      ],
+      "decision_prompts": [
+        "What measurement, count, or requirement changed this month?",
+        "Which current item still solves the job without a new purchase?",
+        "Which product category is justified by the calculator result?"
+      ],
+      "avoid_prompts": [
+        "Do not buy a broad bundle when a focused item solves the task.",
+        "Do not rely on live marketplace claims that this static site cannot verify.",
+        "Do not add a new tool until the existing workflow has a clear gap."
+      ]
+    }
+  ]
+}
