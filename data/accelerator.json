@@ -1,0 +1,61 @@
+{
+  "target_min_pages": 50,
+  "page_types": [
+    "product-fit",
+    "tool-buying-plan",
+    "printable-checklist",
+    "topic-hub"
+  ],
+  "intent": "accelerate qualified long-tail discovery without paid traffic or thin pages",
+  "category_hubs": [
+    {
+      "slug": "decor",
+      "title": "Decor"
+    },
+    {
+      "slug": "rooms",
+      "title": "Rooms"
+    },
+    {
+      "slug": "storage",
+      "title": "Storage"
+    }
+  ],
+  "product_fit_pages": [
+    "painter-tape",
+    "drop-cloth",
+    "paint-roller-kit",
+    "measuring-tape",
+    "curtain-rod",
+    "curtain-rings",
+    "rug-pad",
+    "furniture-sliders",
+    "level",
+    "wall-anchors",
+    "shelf-brackets",
+    "clear-storage-bins",
+    "shelf-labels",
+    "tape-measure"
+  ],
+  "tool_plan_pages": [
+    "paint-estimator",
+    "curtain-size-calculator",
+    "rug-size-selector",
+    "shelf-spacing-planner",
+    "storage-bin-fit-checker"
+  ],
+  "checklist_pages": [
+    "paint-quantity-planning-before-going-to-the-store",
+    "how-to-measure-windows-for-curtains",
+    "rug-size-planning-for-small-living-rooms",
+    "shelf-spacing-for-pantry-and-garage-storage",
+    "storage-bin-dimensions-that-matter",
+    "moving-box-estimates-by-room",
+    "measuring-tape-checklist-for-home-projects",
+    "closet-shelf-planning-basics",
+    "entryway-organizer-measurements",
+    "laundry-room-storage-fit-checks",
+    "home-office-cable-and-shelf-planning",
+    "what-to-measure-before-buying-furniture"
+  ]
+}
