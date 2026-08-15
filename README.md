@@ -1,4 +1,4 @@
-# Home Measurement Tools
+# DIY Home Project Calculators
 
 Simple calculators for paint, curtains, rugs, shelves, storage, and moving boxes.
 
